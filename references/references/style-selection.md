@@ -1,4 +1,4 @@
-# Style Selection Notes
+﻿# Style Selection Notes
 
 Use this only when the project context does not clearly imply a style.
 
