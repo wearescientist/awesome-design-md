@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome Design MD"
+  short_description: "Select and apply big-tech inspired DESIGN.md UI styles"
+  default_prompt: "Use Awesome Design MD to choose a fitting UI style and apply it to this frontend task."
